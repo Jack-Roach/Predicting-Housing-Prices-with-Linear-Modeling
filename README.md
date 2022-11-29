@@ -1,5 +1,6 @@
-# Project 2 - By Jack Roach
-### [Link to Project Presentation](https://drive.google.com/file/d/1qof-0GQBrQ_2EB7e3awCrXRKbmgQ_qT2/view?usp=sharing)
+# <u>Predicting Housing Prices using Linear Modeling</u>
+## By Jack Roach
+#### Copy of my repository from my time in General Assembley's Data Science Immersive Course (Project 2)
 ## Problem Statement
 #### You work for a real estate investment firm that wants to flip houses in Ames, Iowa. Your goal is to maximize the returns on your company's real estate investments by deciding what attributes contribute most to property value in this region and therefore which housing attributes are worth improving. In the interest of helping people trying to flip houses in Ames, Iowa, what housing and property features contribute most to a house's value?
 ## Datasets Utilized
