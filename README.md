@@ -1,4 +1,4 @@
-# <u>Predicting Housing Prices using Linear Modeling</u>
+# **Predicting Housing Prices using Linear Modeling**
 ## By Jack Roach
 #### Copy of my repository from my time in General Assembley's Data Science Immersive Course (Project 2)
 ## Problem Statement
